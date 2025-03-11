@@ -1,7 +1,3 @@
-Here’s the updated README for your new eCommerce project:
-
----
-
 # Ecom Store  
 A modern eCommerce website built with React, Vite, Zustand, and Tailwind CSS.
 
